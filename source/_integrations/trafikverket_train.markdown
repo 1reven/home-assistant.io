@@ -42,7 +42,7 @@ You can filter based on product descriptions such as `SJ Regionaltåg` to only s
 
 ## Prerequisites
 
-Please click [here](https://api.trafikinfo.trafikverket.se/) and register to obtain the API key.
+Please click [here](https://data.trafikverket.se/get-started) and register for "API Öppna Data" to obtain the API key.
 
 {% include integrations/config_flow.md %}
 
